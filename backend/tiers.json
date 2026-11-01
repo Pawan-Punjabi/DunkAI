@@ -1,0 +1,33 @@
+{
+  "tiers": [
+    {
+      "name": "Toss-up",
+      "min": 0.5,
+      "max": 0.55,
+      "games": 464,
+      "accuracy": 0.5258620689655172
+    },
+    {
+      "name": "Lean",
+      "min": 0.55,
+      "max": 0.62,
+      "games": 591,
+      "accuracy": 0.5956006768189509
+    },
+    {
+      "name": "Strong",
+      "min": 0.62,
+      "max": 0.7,
+      "games": 565,
+      "accuracy": 0.6884955752212389
+    },
+    {
+      "name": "Lock",
+      "min": 0.7,
+      "max": 1.01,
+      "games": 528,
+      "accuracy": 0.7765151515151515
+    }
+  ],
+  "test_games": 2148
+}
