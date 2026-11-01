@@ -1,0 +1,22 @@
+{
+  "test_games": 2148,
+  "xgb": {
+    "accuracy": 0.6494413407821229,
+    "precision_home": 0.6548410938654841,
+    "recall_home": 0.7559726962457338,
+    "precision_away": 0.640251572327044,
+    "recall_away": 0.5215163934426229,
+    "macro_f1": 0.638299333038894,
+    "brier": 0.2172738384333518,
+    "log_loss": 0.6242320714013805
+  },
+  "baseline": {
+    "accuracy": 0.5456238361266295,
+    "precision_home": 0.5456238361266295,
+    "recall_home": 1.0,
+    "macro_f1": 0.3530120481927711,
+    "brier": 0.24821970927536255
+  },
+  "xgb_gain_over_baseline": 0.10381750465549344,
+  "xgboost_version": "3.4.1"
+}

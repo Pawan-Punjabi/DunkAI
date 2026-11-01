@@ -1,0 +1,12 @@
+{
+  "subsample": 0.9,
+  "reg_lambda": 1,
+  "reg_alpha": 5,
+  "min_child_weight": 20,
+  "max_depth": 2,
+  "learning_rate": 0.02,
+  "gamma": 0.1,
+  "colsample_bytree": 0.8,
+  "n_estimators": 293,
+  "xgboost_version": "3.4.1"
+}
